@@ -1,2 +1,2 @@
-# flask_tut
-using "The Flask Mega-Tutorial" to learn more about flask
+# C&I Capstone
+senior project web application
