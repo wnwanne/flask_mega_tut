@@ -1,2 +1,2 @@
-# C&I Capstone
-senior project web application
+# Flask Mega Tutorial
+flask app tutorial with mega
